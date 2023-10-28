@@ -1,0 +1,20 @@
+# programa de agenda, probando.
+
+nombre = input("Ingrese su nombre: ")
+apellido = input("Ingrese su apellido: ")
+edad = input("Ingrese su edad: ")
+telefono = input("Ingrese su telefono: ")
+email = input("Ingrese su email: ")
+direccion = input("Ingrese su direccion: ")
+ciudad = input("Ingrese su ciudad: ")
+pais = input("Ingrese su pais: ")
+
+print("\nDatos ingresados: ")
+print("Nombre: ", nombre)
+print("Apellido: ", apellido)
+print("Edad: ", edad)
+print("Telefono: ", telefono)
+print("Email: ", email)
+print("Direccion: ", direccion)
+print("Ciudad: ", ciudad)
+print("Pais: ", pais)
